@@ -28,6 +28,12 @@
             "homepage": "https://github.com/nfephp-org/sped-da/graphs/contributors"
         }
     ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/tavinus/sped-common"
+        }
+    ],
     "require": {
         "php": ">= 7.2",
         "ext-dom": "*",
