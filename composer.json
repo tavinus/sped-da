@@ -33,7 +33,7 @@
         "ext-dom": "*",
         "ext-gd": "*",
         "tecnickcom/tc-lib-barcode": "^1",
-        "nfephp-org/sped-common": "^5.1.0"
+        "nfephp-org/sped-common": "dev-php72"
     },
     "require-dev": {
         "squizlabs/php_codesniffer": "^3.6",
